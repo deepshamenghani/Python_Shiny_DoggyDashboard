@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "locale": "English_United States.1252",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.10.11",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.0",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "a0493d47133abd54c6b05d7559759705"
+    },
+    "app.py": {
+      "checksum": "30a88f3ab6077a2151e5a64927c79b3c"
+    },
+    "dog_traits.csv": {
+      "checksum": "64c5362e55caa772da0660d4200f16fc"
+    },
+    "trait_rating_plot.py": {
+      "checksum": "d54284742a6d381a5114a831a571b3f1"
+    }
+  }
+}
